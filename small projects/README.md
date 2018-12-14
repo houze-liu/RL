@@ -4,4 +4,4 @@ usage:
 
 		$ python firework.py 
 		
-<image src = '2018-12-14 21.17.21.gif', width = '380p', height = '279p'>
+<image src = 'GIF.gif', width = '380p', height = '279p'>
