@@ -4,4 +4,5 @@ usage:
 
 		$ python firework.py 
 		
+![](2018-12-14\21.17.21.gif "GAN on mnist")
 <image src = '2018-12-14 21.17.21.gif', width = '380p', height = '279p'>
