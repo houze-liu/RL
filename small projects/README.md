@@ -4,4 +4,4 @@ usage:
 
 		$ python firework.py 
 		
-<image src = 'GIF.gif', width = '380p', height = '279p'>
+![](GIF.gif 'gif')
