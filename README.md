@@ -1,2 +1,1 @@
-# RL
-practice code
+# Notebook for code
